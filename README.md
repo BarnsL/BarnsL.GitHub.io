@@ -85,7 +85,7 @@
         </div>
         <div class="card">
             <h3>Live Stocks Tracker</h3>
-            <p>An application engineered for real-time market data monitoring, financial asset tracking, and live visualization of stock performance metrics.</p>
+            <p>An application engineered for real-time market data monitoring, financial asset tracking, and live visualization of stock performance metrics. Includes a Claude chat bot that can modify the user's interface and advise.</p>
             <a href="https://github.com/BarnsL/Live-Stocks-Tracker" target="_blank" class="repo-link">View Repository</a>
         </div>
     </div>
