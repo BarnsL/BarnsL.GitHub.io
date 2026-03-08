@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bishi | Software Engineering Portfolio</title>
+    <title>Barns | Software Engineering Portfolio</title>
     <style>
         :root {
             --bg-color: #0d1117;
@@ -92,7 +92,7 @@
 </div>
 
 <footer>
-    <p>&copy; 2026 Bishi. Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a> at a cost of $0/yr ($0.00/hr).</p>
+    <p>&copy; 2026 Barns. Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a> at a cost of $0/yr ($0.00/hr).</p>
 </footer>
 
 </body>
