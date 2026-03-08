@@ -65,7 +65,7 @@
 <body>
 
 <header>
-    <h1>Bishi</h1>
+    <h1>Barns</h1>
     <p class="subtitle">Software Engineering & Systems Architecture</p>
     <a href="https://github.com/BarnsL" target="_blank" class="btn">View GitHub Profile</a>
 </header>
